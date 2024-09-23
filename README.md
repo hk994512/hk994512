@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working on Flutter and Dart.<br>👯 I’m looking to collaborate on Developers <br>🤝 I’m looking for help with beginners <br>🌱 I’m currently learning Flutter <br>💬 Ask me about Flutter and Dart <br>⚡ Fun fact Nature and Love ❤️ and Beautify
+🔭 I’m currently working on Flutter and Dart.<br>👯 I’m looking to collaborate on Developers <br>🤝 I’m looking for help with beginners <br>🌱 I’m currently learning Flutter <br>💬 Ask me about Flutter and Dart <br>⚡ Fun fact Nature and Love ❤️ and Beauty
 
 
 ## 🌐 Socials:
