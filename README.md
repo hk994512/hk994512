@@ -19,7 +19,7 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="42" height="42" /></a></p>
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/m-hamza-a41858250/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+<p><a target="_blank" href="https://www.linkedin.com/in/muhammad-ameer-hamza-a41858250/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hk994512&show_icons=true&locale=en" alt="hk994512" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hk994512&" alt="hk994512" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hk994512&show_icons=true&locale=en&layout=compact" alt="hk994512" /></p>
