@@ -1,88 +1,142 @@
-<h1 align="center">Hi there, I'm Muhammad Ameer Hamza 👋</h1>
+# 🌟 Muhammad Ameer Hamza
 
-<h3 align="center">Flutter Developer | Cross-Platform App Builder | Problem Solver</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=500&color=02569B&center=true&vCenter=true&width=435&lines=Flutter+Developer;Cross-Platform+App+Builder;Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
+</div>
+
+<h3 align="center">🚀 Crafting seamless mobile experiences with Flutter | 💡 Turning ideas into reality</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-Developer-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-1b753a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-1b753a?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Portfolio-Available-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 ---
 
-### 🚀 About Me
+## 👨‍💻 About Me
 
-- 💻 Passionate **Google Flutter Developer** building smooth, cross-platform mobile experiences
-- 🧠 Strong foundation in **C, C++, Java, C#**, with a focus on clean, efficient code
-- 🎨 Comfortable across the stack — **CSS**, **SQL**, **SQLite**, **Hive DB** for local storage
-- 🌱 Always exploring new tools and frameworks to sharpen my craft
-- 📫 Let's connect — I'm always up for interesting projects and conversations
+```dart
+class Developer {
+  final String name = "Muhammad Ameer Hamza";
+  final String role = "Flutter Developer";
+  final List<String> passions = [
+    "Building beautiful cross-platform apps",
+    "Clean architecture & efficient code",
+    "Learning new technologies"
+  ];
+  final Map<String, String> skills = {
+    "Mobile": "Flutter, Dart",
+    "Backend": "Firebase, SQLite, Hive DB",
+    "Languages": "C, C++, Java, C#, PHP",
+    "Tools": "Git, Figma, Postman"
+  };
+}
+```
+
+- 🔭 Currently working on **innovative Flutter applications**
+- 🌱 Exploring **advanced state management & performance optimization**
+- 👯 Looking to collaborate on **open-source Flutter projects**
+- 💬 Ask me about **Flutter, Dart, or app development**
+- ⚡ Fun fact: **I turn caffeine into code ☕ → 💻**
 
 ---
 
-### 🛠️ Languages & Tools
+## 🛠️ Tech Arsenal
 
+### 📱 Mobile Development
 <p align="left">
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-  <a href="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="42" height="42" /></a>
-  <a href="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="42" height="42" /></a>
-  <a href="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="42" height="42" /></a>
-  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-  <a href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a>
-  <a href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
-  <a href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a>
-  <a href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
-  <a href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
-  <a href="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="42" height="42" /></a>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hk994512&show_icons=true&locale=en&theme=default" alt="hk994512 stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hk994512" alt="hk994512 streak" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hk994512&show_icons=true&locale=en&layout=compact" alt="hk994512 top languages" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hk994512" alt="hk994512 trophies" />
-  </a>
-</p>
-
----
-
-### ⚡ Connect With Me
-
+### 💻 Programming Languages
 <p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</p>
+
+### 🗄️ Database & Storage
+<p align="left">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+### 🎨 Design & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hk994512&show_icons=true&count_private=true&hide_border=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hk994512&layout=compact&hide_border=true&theme=radical" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hk994512&theme=radical&hide_border=true" />
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hk994512&theme=radical&row=2&column=4" />
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="left">
   <a href="https://www.linkedin.com/in/muhammad-ameer-hamza-a41858250/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/hk994512" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
 
 ---
 
-### ❤️ Support Me
+## 💝 Support My Work
 
 <p align="left">
   <a href="https://www.buymeacoffee.com/hk994512" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="Buy Me A Coffee" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
   </a>
   <a href="https://ko-fi.com/hk994512" target="_blank">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="160" alt="Ko-fi" />
+    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi" />
   </a>
 </p>
 
 ---
 
-<p align="center"><i>Thanks for stopping by — feel free to explore my repos and reach out! 🚀</i></p>
+<div align="center">
+  
+  ### ❤️ Thanks for visiting! Feel free to explore my repositories and connect with me!
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=hk994512&color=blue&style=flat-square)
+  
+  <img src="https://raw.githubusercontent.com/hk994512/hk994512/output/snake.svg" alt="Snake animation" />
+  
+</div>
+
+---
+
+<div align="center">
+  <i>✨ "Code is poetry in motion" ✨</i>
+</div>
