@@ -1,104 +1,110 @@
-# 🌟 Muhammad Ameer Hamza
+<h1 align="center">Hi there, I'm Muhammad Ameer Hamza 👋</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=500&color=02569B&center=true&vCenter=true&width=435&lines=Flutter+Developer;Cross-Platform+App+Builder;Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=600&color=02569B&center=true&vCenter=true&width=520&lines=Flutter+%26+Dart+Developer;I+build+smooth+cross-platform+apps;Clean+Code+%7C+Clean+Architecture;Always+shipping%2C+always+learning" alt="Typing SVG" />
 </div>
-
-<h3 align="center">🚀 Crafting seamless mobile experiences with Flutter | 💡 Turning ideas into reality</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-Developer-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-1b753a?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Portfolio-Available-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-1b753a?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Based%20in-Pakistan-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hk994512&color=0175C2&style=flat-square&label=Profile+Views" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+### 🧭 A little about me
+
+I'm a **Flutter developer** who enjoys turning ideas into fast, polished, cross-platform apps — one clean widget tree at a time. I care about performance, readable code, and UI that actually feels good to use.
 
 ```dart
-class Developer {
-  final String name = "Muhammad Ameer Hamza";
+class MuhammadAmeerHamza {
   final String role = "Flutter Developer";
-  final List<String> passions = [
-    "Building beautiful cross-platform apps",
-    "Clean architecture & efficient code",
-    "Learning new technologies"
+  final List<String> currentFocus = [
+    "Advanced state management (Bloc / Riverpod)",
+    "Performance tuning & smooth animations",
+    "Clean, scalable app architecture",
   ];
-  final Map<String, String> skills = {
-    "Mobile": "Flutter, Dart",
-    "Backend": "Firebase, SQLite, Hive DB",
+
+  final Map<String, String> stack = {
+    "Mobile"   : "Flutter, Dart",
+    "Backend"  : "Firebase, SQLite, Hive",
     "Languages": "C, C++, Java, C#, PHP",
-    "Tools": "Git, Figma, Postman"
+    "Tools"    : "Git, Figma, Postman",
   };
+
+  String get funFact => "I turn ☕ into 💻";
 }
 ```
 
-- 🔭 Currently working on **innovative Flutter applications**
-- 🌱 Exploring **advanced state management & performance optimization**
-- 👯 Looking to collaborate on **open-source Flutter projects**
-- 💬 Ask me about **Flutter, Dart, or app development**
-- ⚡ Fun fact: **I turn caffeine into code ☕ → 💻**
+- 🔭 Building **cross-platform Flutter apps** with production-grade polish
+- 🌱 Deep-diving into **state management & performance optimization**
+- 🤝 Open to collaborating on **open-source Flutter projects**
+- 💬 Happy to talk **Flutter, Dart, or mobile architecture** anytime
+- ⚡ Fun fact: I turn caffeine into code, one commit at a time
 
 ---
 
-## 🛠️ Tech Arsenal
+### 🧰 Tech Arsenal
 
-### 📱 Mobile Development
-<p align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,sqlite,figma,git,postman,cpp,java,cs,php,mysql&theme=dark" />
 </p>
-
-### 💻 Programming Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-</p>
-
-### 🗄️ Database & Storage
-<p align="left">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
-
-### 🎨 Design & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-
----
-
-## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hk994512&show_icons=true&count_private=true&hide_border=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hk994512&layout=compact&hide_border=true&theme=radical" />
+
+| Category | Stack |
+|---|---|
+| 📱 **Mobile** | Flutter · Dart |
+| 🗄️ **Backend & Storage** | Firebase · SQLite · Hive |
+| 💻 **Languages** | C · C++ · Java · C# · PHP |
+| 🎨 **Design & Tooling** | Figma · Git · Postman · MySQL |
+
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=hk994512&show_icons=true&count_private=true&hide_border=true&theme=radical" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hk994512&layout=compact&hide_border=true&theme=radical" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hk994512&theme=radical&hide_border=true" />
 </div>
 
----
-
-## 🏆 Achievements
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hk994512&theme=radical&row=2&column=4" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hk994512&theme=redical&hide_border=true" width="95%" />
 </div>
 
 ---
 
-## 🤝 Connect With Me
+### 🏆 Trophy Case
 
-<div align="left">
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hk994512&theme=radical&row=2&column=4&margin-w=8&margin-h=8" />
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/hk994512/hk994512/output/snake.svg" alt="Snake animation" width="90%" />
+</div>
+
+> Don't have the snake workflow set up yet? Add [`platane/snk`](https://github.com/Platane/snk) as a GitHub Action — it auto-generates this animation from your contribution graph on every push.
+
+---
+
+### 🤝 Let's Connect
+
+<p align="left">
   <a href="https://www.linkedin.com/in/muhammad-ameer-hamza-a41858250/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -108,35 +114,25 @@ class Developer {
   <a href="https://github.com/hk994512" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</div>
+</p>
 
 ---
 
-## 💝 Support My Work
+### 💝 Support My Work
 
 <p align="left">
   <a href="https://www.buymeacoffee.com/hk994512" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="48" width="200" alt="Buy Me A Coffee" />
   </a>
   <a href="https://ko-fi.com/hk994512" target="_blank">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi" />
+    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="48" width="200" alt="Ko-fi" />
   </a>
 </p>
 
 ---
 
 <div align="center">
-  
-  ### ❤️ Thanks for visiting! Feel free to explore my repositories and connect with me!
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=hk994512&color=blue&style=flat-square)
-  
-  <img src="https://raw.githubusercontent.com/hk994512/hk994512/output/snake.svg" alt="Snake animation" />
-  
-</div>
-
----
-
-<div align="center">
   <i>✨ "Code is poetry in motion" ✨</i>
+  <br /><br />
+  <b>Thanks for stopping by — feel free to explore my repos and say hi! 👋</b>
 </div>
