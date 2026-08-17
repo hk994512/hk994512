@@ -31,7 +31,7 @@ class MuhammadAmeerHamza {
 
   final Map<String, String> stack = {
     "Mobile"   : "Flutter, Dart",
-    "Backend"  : "Firebase, SQLite, Hive",
+    "Backend"  : "Firebase, Supabase, SQLite, Hive",
     "Languages": "C, C++, Java, C#, PHP",
     "Tools"    : "Git, Figma, Postman",
   };
@@ -42,6 +42,7 @@ class MuhammadAmeerHamza {
 
 - 🔭 Building **cross-platform Flutter apps** with production-grade polish
 - 🌱 Deep-diving into **state management & performance optimization**
+- 📦 Published my first Dart package: [flutter_dependency_doctor](https://pub.dev/packages/flutter_dependency_doctor)
 - 🤝 Open to collaborating on **open-source Flutter projects**
 - 💬 Happy to talk **Flutter, Dart, or mobile architecture** anytime
 - ⚡ Fun fact: I turn caffeine into code, one commit at a time
@@ -59,7 +60,7 @@ class MuhammadAmeerHamza {
 | Category | Stack |
 |---|---|
 | 📱 **Mobile** | Flutter · Dart |
-| 🗄️ **Backend & Storage** | Firebase · SQLite · Hive |
+| 🗄️ **Backend & Storage** | Firebase · Supabase · SQLite · Hive |
 | 💻 **Languages** | C · C++ · Java · C# · PHP |
 | 🎨 **Design & Tooling** | Figma · Git · Postman · MySQL |
 
@@ -79,7 +80,7 @@ class MuhammadAmeerHamza {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hk994512&theme=redical&hide_border=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hk994512&theme=radical&hide_border=true" width="95%" />
 </div>
 
 ---
@@ -92,24 +93,14 @@ class MuhammadAmeerHamza {
 
 ---
 
-### 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/hk994512/hk994512/output/snake.svg" alt="Snake animation" width="90%" />
-</div>
-
-> Don't have the snake workflow set up yet? Add [`platane/snk`](https://github.com/Platane/snk) as a GitHub Action — it auto-generates this animation from your contribution graph on every push.
-
----
-
 ### 🤝 Let's Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/muhammad-ameer-hamza-a41858250/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://engrhamzadev.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
   <a href="https://github.com/hk994512" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -123,9 +114,6 @@ class MuhammadAmeerHamza {
 <p align="left">
   <a href="https://www.buymeacoffee.com/hk994512" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="48" width="200" alt="Buy Me A Coffee" />
-  </a>
-  <a href="https://ko-fi.com/hk994512" target="_blank">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="48" width="200" alt="Ko-fi" />
   </a>
 </p>
 
